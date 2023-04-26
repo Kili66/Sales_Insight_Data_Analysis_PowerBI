@@ -15,5 +15,6 @@ In this project, we do some data analysis and make sales insight of Atliq hardwa
 2- Build Dashboard
 
 **** Output****
-![2023-04-26 18_26_17-Window](https://user-images.githubusercontent.com/66678981/234624749-f2c06e64-04d2-411c-b488-eea9311b219b.png)
+![2023-04-26 18_26_17-Window](https://user-images.githubusercontent.com/66678981/234639724-3e7dc78f-634c-4349-99a8-5811d8ac16d3.png)
+
 

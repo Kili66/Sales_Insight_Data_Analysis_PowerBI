@@ -13,3 +13,7 @@ In this project, we do some data analysis and make sales insight of Atliq hardwa
 ***First Step****
 1- Data Cleaning: With PowerBI tool, perform ETL on all data
 2- Build Dashboard
+
+**** Output****
+![2023-04-26 18_26_17-Window](https://user-images.githubusercontent.com/66678981/234624749-f2c06e64-04d2-411c-b488-eea9311b219b.png)
+
